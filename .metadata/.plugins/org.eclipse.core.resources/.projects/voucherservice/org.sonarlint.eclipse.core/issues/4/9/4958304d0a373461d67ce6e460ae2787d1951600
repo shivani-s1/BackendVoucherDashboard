@@ -1,0 +1,10 @@
+
+ç
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").b b6f2eb00c8d0ab40c36e470823ee6b89h
+}
+java:S2259!"IA "NullPointerException" could be thrown; "contentType" is nullable here.b 117707390c6aac0aedce068c8feb39e1h
+n
+java:S1118":Add a private constructor to hide the implicit public one.b c8b5b9e90fe6a1586503a4b6620fe204h
+i
+java:S1854("5Remove this useless assignment to local variable "d".b 44466c97b9848ae410f07a0aa1e4a1fch
+^	java:S106q"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
